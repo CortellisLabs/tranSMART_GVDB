@@ -179,17 +179,17 @@ log4j = {
 
 com.recomdata.searchtool.genegoURL = 'https://portal.genego.com'
 com.recomdata.searchtool.cortellisEnabled = true
-com.thomsonreuters.transmart.cortellisAPILogin = 'TR_Internal_031'
-com.thomsonreuters.transmart.cortellisAPIPassword = 'UVQCLX4TYZGRK8FD'
+com.thomsonreuters.transmart.cortellisAPILogin = 'GVAPI_UserName'
+com.thomsonreuters.transmart.cortellisAPIPassword = 'GVAPI_Password'
 com.thomsonreuters.transmart.cortellisCertStore = '/Developer/transmart/cortellis_truststore.jks'
 com.thomsonreuters.transmart.GVAPICertStore = '/Developer/transmart/gvapi.jks'
-com.thomsonreuters.transmart.metacoreURL = 'http://gur.devel.genego.com'
+com.thomsonreuters.transmart.metacoreURL = 'http://metacore.url.com' //'http://gur.devel.genego.com'
 
 com.thomsonreuters.transmart.cortellisAnalyticsEnable = true
 com.thomsonreuters.transmart.metacoreAnalyticsEnable = true
 
-com.thomsonreuters.transmart.metacoreDefaultLogin = 'eugr'
-com.thomsonreuters.transmart.metacoreDefaultPassword = 'eugr'
+com.thomsonreuters.transmart.metacoreDefaultLogin = 'MetaCore_UserName'
+com.thomsonreuters.transmart.metacoreDefaultPassword = 'MetaCore_Password'
 /*com.thomsonreuters.transmart.demoEnrichmentURL = 'http://localhost:8090'
 com.thomsonreuters.transmart.demoMapBaseURL = 'http://pathwaymaps.com/maps/'
 */
